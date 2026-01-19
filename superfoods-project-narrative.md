@@ -102,6 +102,12 @@ A small reference section appeared in the bottom corner of the interior panel. W
 
 ---
 
+## Deliverable
+
+[Superfoods Brochure](./superfoods-brochure.pdf)
+
+---
+
 ## Reflection
 
 This project highlighted the importance of:
@@ -113,4 +119,5 @@ This project highlighted the importance of:
 - Collaborating early and often with editors and production specialists  
 
 Although the subject matter was nutritional rather than technical, the core skills—audience analysis, concise writing, layout awareness, and iterative refinement—directly align with professional technical communication practices.
+
 
