@@ -68,6 +68,7 @@ Several factors contributed to the success of the Alpha project:
 - **Immediate access to the target audience:** Because we could easily reach parents, we received frequent, rapid feedback throughout development.
 - **Early content development:** We drafted the content within the first week, allowing ample time for revision and refinement.
 - **Integrated collaboration:** The editor and production specialist were involved from the beginning, eliminating the need for a formal handoff and enabling iterative improvements as the brochure took shape.
+- **Canva:** Canva proved to be an easily 
 
 ### Challenges Encountered
 
@@ -79,9 +80,15 @@ Despite the overall success, we encountered several challenges:
 
 ---
 
+### Tools Used
+
+We used **Canva** as our primary design and production tool for this project. Canva was easy to access, intuitive to learn, and well‑suited for creating visually appealing layouts with minimal setup time. Its built‑in templates, graphics, and formatting features allowed us to experiment with color, hierarchy, and visual balance without requiring prior design experience. A major advantage was Canva’s collaborative environment: all team members could access the project remotely and work concurrently, which streamlined editing, reduced handoff delays, and enabled rapid iteration based on feedback. Overall, Canva supported both the instructional and aesthetic goals of the brochure while facilitating efficient teamwork.
+
+---
+
 ## Deliverable Overview
 
-The final deliverable was a **two‑sided tri‑fold brochure**. The front and back panels formed the cover and closing sections, while the interior panels presented the instructional content.
+The final deliverable was a **two‑sided tri‑fold brochure** created using Canva. The front and back panels formed the cover and closing sections, while the interior panels presented the instructional content.
 
 For each featured superfood, the brochure included:
 
@@ -106,3 +113,4 @@ This project highlighted the importance of:
 - Collaborating early and often with editors and production specialists  
 
 Although the subject matter was nutritional rather than technical, the core skills—audience analysis, concise writing, layout awareness, and iterative refinement—directly align with professional technical communication practices.
+
